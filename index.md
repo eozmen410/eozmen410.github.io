@@ -34,10 +34,10 @@
 
 - **[VisiFit: AI Tools to Iteratively Improve Visual Blends](/pdf/VisiFit_CHI_2020_submission.pdf)**
 
-*Lydia B. Chilton, Ecenaz Jen Ozmen, Sam H. Ross*
+&nbsp;&nbsp;&nbsp;*Lydia B. Chilton, Ecenaz Jen Ozmen, Sam H. Ross*
 - **[WordBlender: Principles and Tools for Generating Word Blends](/pdf/WordBlenderSubmission.pdf)**
 
-*Sam H. Ross, Ecenaz Jen Ozmen, Maria Kogan, Lydia B. Chilton*
+&nbsp;&nbsp;&nbsp;*Sam H. Ross, Ecenaz Jen Ozmen, Maria Kogan, Lydia B. Chilton*
 
 
 ---
