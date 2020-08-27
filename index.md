@@ -2,28 +2,33 @@
 
 ---
 
-### Category Name 1 
+### Projects 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Interactive Grabcut](/https://github.com/eozmen410/interactive_grabcut)
+<img src="images/grabcut_demo.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Security Violation Reporting Test Bed](https://github.com/salcho/reporting-test-bed)
+<img src="images/reportingviolation.JPG?raw=true"/>
+
+
+---
+[Brew](https://github.com/eozmen410/brew)
+<img src="images/brew_coffee.jpeg?raw=true"/>
+
+---
+[MapReduce Word Count](https://github.com/eozmen410/mapreduce_wordcount)
+<img src="images/mapreduce.png?raw=true"/>
 
 ---
 
-### Category Name 2
+### Publications
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [VisiFit: AI Tools to Iteratively Improve Visual Blends](/pdf/VisiFit_CHI_2020_submission.pdf)
+*Lydia B. Chilton, Ecenaz Jen Ozmen, Sam H. Ross*
+- [WordBlender: Principles and Tools for Generating Word Blends](/pdf/WordBlenderSubmission.pdf)
+*Sam H. Ross, Ecenaz Jen Ozmen, Maria Kogan, Lydia B. Chilton*
+
 
 ---
 
