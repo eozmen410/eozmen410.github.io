@@ -48,10 +48,12 @@
 
 ### Open Source Contributions
 
-- **[WW-5084: Add Content Security Policy support to Struts](https://github.com/apache/struts/pull/430)**
-
 - **[[WICKET-6805] Add Cross-Origin Opener Policy and Cross-Origin Embedder Policy support](https://github.com/apache/wicket/pull/442)**
 
 - **[[WICKET-6786]: Add Fetch Metadata support](https://github.com/apache/wicket/pull/439)**
+
+- **[WW-5084: Add Content Security Policy support to Struts](https://github.com/apache/struts/pull/430)**
+
+- **[[WW-5084-follow-up]: Refactoring Nonce Propagation in Struts Tags for CSP](https://github.com/apache/struts/pull/434)**
 
 ---
