@@ -28,7 +28,7 @@
 ---
 **[Security Violation Reporting Test Bed](https://github.com/salcho/reporting-test-bed)**
 
-*An exmperimental web-based application that produces security violation reporting on demand across browsers. Test targets include violations of: Content Security Policy, Trusted Types, Cross-Origin Embedder Policy.*
+*An experimental web-based application that produces security violation reporting on demand across browsers. Test targets include violations of: Content Security Policy, Trusted Types, Cross-Origin Embedder Policy.*
 
 <img src="images/reportingviolation.JPG?raw=true"/>
 
