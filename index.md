@@ -37,7 +37,7 @@
 
 *volga provides fast, extensible, and expressive APIs to deserialize any python data structure from any supported data format (such as JSON and YAML)*
 
-<img src="images/data.JPG?raw=true"/>
+<img src="images/data.jpg?raw=true"/>
 
 ---
 
